@@ -1,0 +1,8 @@
+name = "InfiltratorMWE"
+uuid = "499c0bd7-0636-4918-9476-66cc1112c95a"
+authors = ["Peter Deffebach <p.deffebach@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+Infiltrator = "5903a43b-9cc3-4c30-8d17-598619ec4e9b"
+Roots = "f2b01f46-fcfa-551c-844a-d8ac1e96c665"
