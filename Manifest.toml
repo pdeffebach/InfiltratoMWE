@@ -10,9 +10,9 @@ version = "0.2.0"
 
 [[Infiltrator]]
 deps = ["REPL"]
-git-tree-sha1 = "013499aff4286517af85623048e762f31deab760"
+git-tree-sha1 = "2418a26375fb0fa5977bf4b2122b787d7097ceb2"
 uuid = "5903a43b-9cc3-4c30-8d17-598619ec4e9b"
-version = "1.0.2"
+version = "1.0.3"
 
 [[InteractiveUtils]]
 deps = ["Markdown"]
